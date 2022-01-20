@@ -1,0 +1,93 @@
+PROFESSIONAL SUMMERY
+
+Technical professional with a strong background of training, strong experience and practical knowledge of building, configuring and administrating local and wide area networks (LANs/WANs)
+performing network support functions; troubleshooting and repairing hardware and components; and installing software upgrades or downloads. Proven record of successful network infrastructures implementation and coordination based on Cisco switches and routers platform. End-to-end user supports, capability of emerging technologies to develop IT solutions, meeting organizational needs and outstanding communication skills are the key strength. 
+
+SKILLS AND TRAINING
+SIEM Training :
+•	Splunk core certified  user 
+•	Splunk Admistration 
+•	Splunk Enterprise security 
+•	Centralized logging – ELK, Kibana 
+Certification :
+•	GIAC Security Operations Certified (Blue Team Fundamentals: Security Operations and Analysis)
+•	GIAC Certified Detection Analyst (SANS SEC555)
+•	ComptaSecurity Plus 
+ Operating Systems training (at UTS)
+•	Windows Operating System
+•	Linux OS (Fedora) and Sun Solaris.
+•	Linux professional examination certification (LPIC 1 and 2 ) 
+•	UNIIX system programming
+Cisco Academic training (at UTS):
+•	CCNA, CCNP (IP Routing, QOS, WAN Security, Multilayer Switch), VOIP, Network Security, firewall. 
+QUALIFICATON 
+
+M.Sc in Internetworking (Extended), University of Technology, Sydney  Australia
+B.Sc in Computing and Information System, London Metropolitan University, UK 
+Member of Australian Computer Society, Australia (Membership No: 3096214)
+ACS Certified Technologist (Certified Technologist (CT) designation is recognition of expertise in applying and integrating Information and Communication Technology)
+
+EMPLOYMENT HISTORY
+Network support                                                                                             2020 -2021
+Inforcrat Ltd, Dhaka, Bangladesh 
+•	Install VMware infrastructure in 45 RU rack consisting of Juniper SRX 240 router, Juniper Ex4500 Layer 3 switches and DellPowerEdge 740 server.
+•	Network Design including VLAN(s), IP Subnet design, and Access list.
+•	Install VMware ESXI server and deploying the new VM from the template and cloning existing.
+•	End users were given on-site assistance with their computer applications and network devices, including installation, troubleshooting, and support.
+•	Monthly preventative maintenance was completed on all network-related devices deployed on-site, including tracking anti-virus, backup.
+•	Aided in the development of long-term strategy and capacity planning for future business IT requirements.
+Network Support Engineer 
+Empower Technology, Sydney, Australia                                              January 2017 – 2020
+                        
+Provide network support for small and medium size business.
+
+Responsibilities:
+•	Install and configure Cisco networking devices, creating VLans, VTP, Port security STP, Intra-VLan routing, enable routing protocol layer 3 switch; 
+•	Provide onsite support to external customers and troubleshoot network related problems;
+•	Install and upgrade routers, switches and hardware peripherals;
+•	Deployed and configure wireless and BDSL solution for small business;
+•	Setup and configure network monitoring system – What’sup, Gold, Spectrum, Syslog etc.
+•	Rollout new networking devices, patching cat6, fiber optics and HBA cards;
+•	Install new racks on client’s server rooms, install servers and networking equipment;
+•	Install, configure and maintain servers and desktop running Linux/Solaris.
+•	Provide firewall solution and prevention form network attacks, implement ports blocking, intrusion detection, implant DMZ zones for secure exchanging environment;
+•	Setting up, configuring, and administrating local area network (LANs) including simple routed LAN, routed WAN, switched LAN networks, and wireless networks.
+IBM Technician (Wireless)
+Information Management Integration, Sydney, Australia        July 2010 – December 2012
+
+Department of Education and Training (DET) required new installation of Wireless infrastructure and SOE implementation to number of schools across NSW. These projects were outsourced to IBM and I was employed by IBM as a Wireless Technician. My responsibilities were to implement and support wireless infrastructure followed by:
+
+•	Install Wireless infrastructure in 45 RU rack consisting of Aruba wireless controller, HP Layer 3 switches and IBM Authentication servers.
+•	Configure and implement HP switches, create VTP, VLANs, STP, HSRP, VRRP.
+•	Set up and configure QoS including Traffic Marking, LLQ, WFQ, NBAR and PPP multilink.
+•	Troubleshoot existing Layer 3 Switches and routers with new protocols.
+•	Setup interconnectivity of Wireless Kit through cat 5 UTP cable and Fiber Optics connectivity for wireless backbone.
+•	Merging/Migration of old infrastructure to the new wireless infrastructure.
+•	Troubleshoot existing Fiber Optics connectivity to ensure point to point connectivity.
+•	Test existing internal network and internet connectivity Pre-Cutover and Post-Cutover phases.
+•	Support the expansion, upgrades and roll-outs of new network infrastructure involving hardware such as routers and switches, associated software, network monitoring and management systems.
+•	Participated in network inventory management and faulty device escalations.
+
+
+CYBERSECURITY PROJECTS
+
+•	Have experience with  TheHive incident management system (IMS) workflow and concepts.     Creating case and task creation, entering observables, and enrichment.    Use Cortex automation engine for indicator enrichment.
+•	Use the MISP Threat Intelligence Platform to ingest threat data.Create a MISP event with information from an open-source report.Push information from a MISP event to TheHive for Triage.
+•	 Learn to navigate in the Kibana interface.    Understand how data is stored in Elasticsearch when using it as a SIEM.    Investigate honeypot server traffic logs.    Create visualizations and dashboards to find data trends.
+•	 Run a DNS Server (Pi-Hole) to see how it accepts, records, and forwards requests.    Manually generate DNS requests from the command line to our Pi-Hole DNS server using "dig".    Log in to the DNS server and see the information it records from client lookups.    Look at the packets of the DNS traffic in Wireshark
+•	Use Suricata IDS signatures to detect suspicious DNS requests.    Use DNS event logs recorded by Suricata to identify DNS tunneling in a SIEM.
+•	generated multiple ways HTTP logs .    See the difference in content between network extracted and server written HTTP logs.    Analyze the full content of HTTP transactions in Wireshark.   Extract certificate information from HTTPS traffic.    Analyze HTTPS connection details in Wireshark.
+•	 See SMTP mail relay in action on your virtual machine.    Follow a normal email through two MTA servers.    Manually send a spoofed message via telnet and see how it appears in a mail client. Examine known malicious email and identify spoofing and threats within the message content
+•	Learn to find and interpret key Windows logs.    Learn how Windows logs are commonly stored in a SIEM.    Explore different log files and channels to find data of interest.
+•	 Understand the flow of log data into a SIEM.    See various types of log formats and understand the implications for parsing.    Understand the importance of correct log parsing.    Understand how a SIEM performs normalization, enrichment, and categorization.    Use data supplement with enrichment and categorization to visualize attack trend
+•	    Learn how to do basic triage of commonly weaponized files.    Use OSINT to quickly produce actionable information.    Learn some basic ways to take apart malicious files
+•	 Apply the kill-chain to a set of alerts for triage.    Use supporting evidence to help disposition incoming alerts.    Use PCAPs and context to make alert triage decisions.Use a full PCAP engine (Moloch) to assist in triaging a late-stage attack.
+•	Look at a set of alerts from an untuned IDS.    Translate detection and compliance requirements into filter conditions.    Tune an IDS to detect attacks to an externally available web server.    Filter out unrelated alerts from a default IDS rule set.
+•	 Become familiar with flow based programming for automation.    Create a workflow to automatically new files inside a folder and calculate their hash.    Submit the calculated file hash via HTTP API to a virus check site and read the results.    Send an automated email when the file results indicate a virus was found.
+
+•	    Perform some common containment actions to understand when and how they work.Combine common containment actions with automation for quick response.
+
+
+Referees available on request
+
+
